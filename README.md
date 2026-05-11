@@ -43,10 +43,7 @@ A modern, responsive task management web application built with vanilla HTML, CS
 4. **Delete Task:** Click the Delete button to remove a task
 5. **Your Data:** Tasks are automatically saved and will persist between sessions
 
-## Live Demo
-
-🌐 [Visit TaskFlow](https://taskflow-app.vercel.app)
-
+   
 ## Key Learnings
 
 This project demonstrates:
